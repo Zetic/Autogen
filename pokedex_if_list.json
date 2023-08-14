@@ -1,0 +1,1682 @@
+{
+    "Bulbasaur": {
+        "official_dex": "1",
+        "if_dex": "1"
+    },
+    "Ivysaur": {
+        "official_dex": "2",
+        "if_dex": "2"
+    },
+    "Venusaur": {
+        "official_dex": "3",
+        "if_dex": "3"
+    },
+    "Charmander": {
+        "official_dex": "4",
+        "if_dex": "4"
+    },
+    "Charmeleon": {
+        "official_dex": "5",
+        "if_dex": "5"
+    },
+    "Charizard": {
+        "official_dex": "6",
+        "if_dex": "6"
+    },
+    "Squirtle": {
+        "official_dex": "7",
+        "if_dex": "7"
+    },
+    "Wartortle": {
+        "official_dex": "8",
+        "if_dex": "8"
+    },
+    "Blastoise": {
+        "official_dex": "9",
+        "if_dex": "9"
+    },
+    "Caterpie": {
+        "official_dex": "10",
+        "if_dex": "10"
+    },
+    "Metapod": {
+        "official_dex": "11",
+        "if_dex": "11"
+    },
+    "Butterfree": {
+        "official_dex": "12",
+        "if_dex": "12"
+    },
+    "Weedle": {
+        "official_dex": "13",
+        "if_dex": "13"
+    },
+    "Kakuna": {
+        "official_dex": "14",
+        "if_dex": "14"
+    },
+    "Beedrill": {
+        "official_dex": "15",
+        "if_dex": "15"
+    },
+    "Pidgey": {
+        "official_dex": "16",
+        "if_dex": "16"
+    },
+    "Pidgeotto": {
+        "official_dex": "17",
+        "if_dex": "17"
+    },
+    "Pidgeot": {
+        "official_dex": "18",
+        "if_dex": "18"
+    },
+    "Rattata": {
+        "official_dex": "19",
+        "if_dex": "19"
+    },
+    "Raticate": {
+        "official_dex": "20",
+        "if_dex": "20"
+    },
+    "Spearow": {
+        "official_dex": "21",
+        "if_dex": "21"
+    },
+    "Fearow": {
+        "official_dex": "22",
+        "if_dex": "22"
+    },
+    "Ekans": {
+        "official_dex": "23",
+        "if_dex": "23"
+    },
+    "Arbok": {
+        "official_dex": "24",
+        "if_dex": "24"
+    },
+    "Pikachu": {
+        "official_dex": "25",
+        "if_dex": "25"
+    },
+    "Raichu": {
+        "official_dex": "26",
+        "if_dex": "26"
+    },
+    "Sandshrew": {
+        "official_dex": "27",
+        "if_dex": "27"
+    },
+    "Sandslash": {
+        "official_dex": "28",
+        "if_dex": "28"
+    },
+    "Nidoran-f": {
+        "official_dex": "29",
+        "if_dex": "29"
+    },
+    "Nidorina": {
+        "official_dex": "30",
+        "if_dex": "30"
+    },
+    "Nidoqueen": {
+        "official_dex": "31",
+        "if_dex": "31"
+    },
+    "Nidoran-m": {
+        "official_dex": "32",
+        "if_dex": "32"
+    },
+    "Nidorino": {
+        "official_dex": "33",
+        "if_dex": "33"
+    },
+    "Nidoking": {
+        "official_dex": "34",
+        "if_dex": "34"
+    },
+    "Clefairy": {
+        "official_dex": "35",
+        "if_dex": "35"
+    },
+    "Clefable": {
+        "official_dex": "36",
+        "if_dex": "36"
+    },
+    "Vulpix": {
+        "official_dex": "37",
+        "if_dex": "37"
+    },
+    "Ninetales": {
+        "official_dex": "38",
+        "if_dex": "38"
+    },
+    "Jigglypuff": {
+        "official_dex": "39",
+        "if_dex": "39"
+    },
+    "Wigglytuff": {
+        "official_dex": "40",
+        "if_dex": "40"
+    },
+    "Zubat": {
+        "official_dex": "41",
+        "if_dex": "41"
+    },
+    "Golbat": {
+        "official_dex": "42",
+        "if_dex": "42"
+    },
+    "Oddish": {
+        "official_dex": "43",
+        "if_dex": "43"
+    },
+    "Gloom": {
+        "official_dex": "44",
+        "if_dex": "44"
+    },
+    "Vileplume": {
+        "official_dex": "45",
+        "if_dex": "45"
+    },
+    "Paras": {
+        "official_dex": "46",
+        "if_dex": "46"
+    },
+    "Parasect": {
+        "official_dex": "47",
+        "if_dex": "47"
+    },
+    "Venonat": {
+        "official_dex": "48",
+        "if_dex": "48"
+    },
+    "Venomoth": {
+        "official_dex": "49",
+        "if_dex": "49"
+    },
+    "Diglett": {
+        "official_dex": "50",
+        "if_dex": "50"
+    },
+    "Dugtrio": {
+        "official_dex": "51",
+        "if_dex": "51"
+    },
+    "Meowth": {
+        "official_dex": "52",
+        "if_dex": "52"
+    },
+    "Persian": {
+        "official_dex": "53",
+        "if_dex": "53"
+    },
+    "Psyduck": {
+        "official_dex": "54",
+        "if_dex": "54"
+    },
+    "Golduck": {
+        "official_dex": "55",
+        "if_dex": "55"
+    },
+    "Mankey": {
+        "official_dex": "56",
+        "if_dex": "56"
+    },
+    "Primeape": {
+        "official_dex": "57",
+        "if_dex": "57"
+    },
+    "Growlithe": {
+        "official_dex": "58",
+        "if_dex": "58"
+    },
+    "Arcanine": {
+        "official_dex": "59",
+        "if_dex": "59"
+    },
+    "Poliwag": {
+        "official_dex": "60",
+        "if_dex": "60"
+    },
+    "Poliwhirl": {
+        "official_dex": "61",
+        "if_dex": "61"
+    },
+    "Poliwrath": {
+        "official_dex": "62",
+        "if_dex": "62"
+    },
+    "Abra": {
+        "official_dex": "63",
+        "if_dex": "63"
+    },
+    "Kadabra": {
+        "official_dex": "64",
+        "if_dex": "64"
+    },
+    "Alakazam": {
+        "official_dex": "65",
+        "if_dex": "65"
+    },
+    "Machop": {
+        "official_dex": "66",
+        "if_dex": "66"
+    },
+    "Machoke": {
+        "official_dex": "67",
+        "if_dex": "67"
+    },
+    "Machamp": {
+        "official_dex": "68",
+        "if_dex": "68"
+    },
+    "Bellsprout": {
+        "official_dex": "69",
+        "if_dex": "69"
+    },
+    "Weepinbell": {
+        "official_dex": "70",
+        "if_dex": "70"
+    },
+    "Victreebel": {
+        "official_dex": "71",
+        "if_dex": "71"
+    },
+    "Tentacool": {
+        "official_dex": "72",
+        "if_dex": "72"
+    },
+    "Tentacruel": {
+        "official_dex": "73",
+        "if_dex": "73"
+    },
+    "Geodude": {
+        "official_dex": "74",
+        "if_dex": "74"
+    },
+    "Graveler": {
+        "official_dex": "75",
+        "if_dex": "75"
+    },
+    "Golem": {
+        "official_dex": "76",
+        "if_dex": "76"
+    },
+    "Ponyta": {
+        "official_dex": "77",
+        "if_dex": "77"
+    },
+    "Rapidash": {
+        "official_dex": "78",
+        "if_dex": "78"
+    },
+    "Slowpoke": {
+        "official_dex": "79",
+        "if_dex": "79"
+    },
+    "Slowbro": {
+        "official_dex": "80",
+        "if_dex": "80"
+    },
+    "Magnemite": {
+        "official_dex": "81",
+        "if_dex": "81"
+    },
+    "Magneton": {
+        "official_dex": "82",
+        "if_dex": "82"
+    },
+    "farfetchd": {
+        "official_dex": "83",
+        "if_dex": "83"
+    },
+    "Doduo": {
+        "official_dex": "84",
+        "if_dex": "84"
+    },
+    "Dodrio": {
+        "official_dex": "85",
+        "if_dex": "85"
+    },
+    "Seel": {
+        "official_dex": "86",
+        "if_dex": "86"
+    },
+    "Dewgong": {
+        "official_dex": "87",
+        "if_dex": "87"
+    },
+    "Grimer": {
+        "official_dex": "88",
+        "if_dex": "88"
+    },
+    "Muk": {
+        "official_dex": "89",
+        "if_dex": "89"
+    },
+    "Shellder": {
+        "official_dex": "90",
+        "if_dex": "90"
+    },
+    "Cloyster": {
+        "official_dex": "91",
+        "if_dex": "91"
+    },
+    "Gastly": {
+        "official_dex": "92",
+        "if_dex": "92"
+    },
+    "Haunter": {
+        "official_dex": "93",
+        "if_dex": "93"
+    },
+    "Gengar": {
+        "official_dex": "94",
+        "if_dex": "94"
+    },
+    "Onix": {
+        "official_dex": "95",
+        "if_dex": "95"
+    },
+    "Drowzee": {
+        "official_dex": "96",
+        "if_dex": "96"
+    },
+    "Hypno": {
+        "official_dex": "97",
+        "if_dex": "97"
+    },
+    "Krabby": {
+        "official_dex": "98",
+        "if_dex": "98"
+    },
+    "Kingler": {
+        "official_dex": "99",
+        "if_dex": "99"
+    },
+    "Voltorb": {
+        "official_dex": "100",
+        "if_dex": "100"
+    },
+    "Electrode": {
+        "official_dex": "101",
+        "if_dex": "101"
+    },
+    "Exeggcute": {
+        "official_dex": "102",
+        "if_dex": "102"
+    },
+    "Exeggutor": {
+        "official_dex": "103",
+        "if_dex": "103"
+    },
+    "Cubone": {
+        "official_dex": "104",
+        "if_dex": "104"
+    },
+    "Marowak": {
+        "official_dex": "105",
+        "if_dex": "105"
+    },
+    "Hitmonlee": {
+        "official_dex": "106",
+        "if_dex": "106"
+    },
+    "Hitmonchan": {
+        "official_dex": "107",
+        "if_dex": "107"
+    },
+    "Lickitung": {
+        "official_dex": "108",
+        "if_dex": "108"
+    },
+    "Koffing": {
+        "official_dex": "109",
+        "if_dex": "109"
+    },
+    "Weezing": {
+        "official_dex": "110",
+        "if_dex": "110"
+    },
+    "Rhyhorn": {
+        "official_dex": "111",
+        "if_dex": "111"
+    },
+    "Rhydon": {
+        "official_dex": "112",
+        "if_dex": "112"
+    },
+    "Chansey": {
+        "official_dex": "113",
+        "if_dex": "113"
+    },
+    "Tangela": {
+        "official_dex": "114",
+        "if_dex": "114"
+    },
+    "Kangaskhan": {
+        "official_dex": "115",
+        "if_dex": "115"
+    },
+    "Horsea": {
+        "official_dex": "116",
+        "if_dex": "116"
+    },
+    "Seadra": {
+        "official_dex": "117",
+        "if_dex": "117"
+    },
+    "Goldeen": {
+        "official_dex": "118",
+        "if_dex": "118"
+    },
+    "Seaking": {
+        "official_dex": "119",
+        "if_dex": "119"
+    },
+    "Staryu": {
+        "official_dex": "120",
+        "if_dex": "120"
+    },
+    "Starmie": {
+        "official_dex": "121",
+        "if_dex": "121"
+    },
+    "Mr. Mime": {
+        "official_dex": "122",
+        "if_dex": "122"
+    },
+    "Scyther": {
+        "official_dex": "123",
+        "if_dex": "123"
+    },
+    "Jynx": {
+        "official_dex": "124",
+        "if_dex": "124"
+    },
+    "Electabuzz": {
+        "official_dex": "125",
+        "if_dex": "125"
+    },
+    "Magmar": {
+        "official_dex": "126",
+        "if_dex": "126"
+    },
+    "Pinsir": {
+        "official_dex": "127",
+        "if_dex": "127"
+    },
+    "Tauros": {
+        "official_dex": "128",
+        "if_dex": "128"
+    },
+    "Magikarp": {
+        "official_dex": "129",
+        "if_dex": "129"
+    },
+    "Gyarados": {
+        "official_dex": "130",
+        "if_dex": "130"
+    },
+    "Lapras": {
+        "official_dex": "131",
+        "if_dex": "131"
+    },
+    "Ditto": {
+        "official_dex": "132",
+        "if_dex": "132"
+    },
+    "Eevee": {
+        "official_dex": "133",
+        "if_dex": "133"
+    },
+    "Vaporeon": {
+        "official_dex": "134",
+        "if_dex": "134"
+    },
+    "Jolteon": {
+        "official_dex": "135",
+        "if_dex": "135"
+    },
+    "Flareon": {
+        "official_dex": "136",
+        "if_dex": "136"
+    },
+    "Porygon": {
+        "official_dex": "137",
+        "if_dex": "137"
+    },
+    "Omanyte": {
+        "official_dex": "138",
+        "if_dex": "138"
+    },
+    "Omastar": {
+        "official_dex": "139",
+        "if_dex": "139"
+    },
+    "Kabuto": {
+        "official_dex": "140",
+        "if_dex": "140"
+    },
+    "Kabutops": {
+        "official_dex": "141",
+        "if_dex": "141"
+    },
+    "Aerodactyl": {
+        "official_dex": "142",
+        "if_dex": "142"
+    },
+    "Snorlax": {
+        "official_dex": "143",
+        "if_dex": "143"
+    },
+    "Articuno": {
+        "official_dex": "144",
+        "if_dex": "144"
+    },
+    "Zapdos": {
+        "official_dex": "145",
+        "if_dex": "145"
+    },
+    "Moltres": {
+        "official_dex": "146",
+        "if_dex": "146"
+    },
+    "Dratini": {
+        "official_dex": "147",
+        "if_dex": "147"
+    },
+    "Dragonair": {
+        "official_dex": "148",
+        "if_dex": "148"
+    },
+    "Dragonite": {
+        "official_dex": "149",
+        "if_dex": "149"
+    },
+    "Mewtwo": {
+        "official_dex": "150",
+        "if_dex": "150"
+    },
+    "Mew": {
+        "official_dex": "151",
+        "if_dex": "151"
+    },
+    "Chikorita": {
+        "official_dex": "152",
+        "if_dex": "152"
+    },
+    "Bayleef": {
+        "official_dex": "153",
+        "if_dex": "153"
+    },
+    "Meganium": {
+        "official_dex": "154",
+        "if_dex": "154"
+    },
+    "Cyndaquil": {
+        "official_dex": "155",
+        "if_dex": "155"
+    },
+    "Quilava": {
+        "official_dex": "156",
+        "if_dex": "156"
+    },
+    "Typhlosion": {
+        "official_dex": "157",
+        "if_dex": "157"
+    },
+    "Totodile": {
+        "official_dex": "158",
+        "if_dex": "158"
+    },
+    "Croconaw": {
+        "official_dex": "159",
+        "if_dex": "159"
+    },
+    "Feraligatr": {
+        "official_dex": "160",
+        "if_dex": "160"
+    },
+    "Sentret": {
+        "official_dex": "161",
+        "if_dex": "161"
+    },
+    "Furret": {
+        "official_dex": "162",
+        "if_dex": "162"
+    },
+    "Hoothoot": {
+        "official_dex": "163",
+        "if_dex": "163"
+    },
+    "Noctowl": {
+        "official_dex": "164",
+        "if_dex": "164"
+    },
+    "Ledyba": {
+        "official_dex": "165",
+        "if_dex": "165"
+    },
+    "Ledian": {
+        "official_dex": "166",
+        "if_dex": "166"
+    },
+    "Spinarak": {
+        "official_dex": "167",
+        "if_dex": "167"
+    },
+    "Ariados": {
+        "official_dex": "168",
+        "if_dex": "168"
+    },
+    "Crobat": {
+        "official_dex": "169",
+        "if_dex": "169"
+    },
+    "Chinchou": {
+        "official_dex": "170",
+        "if_dex": "170"
+    },
+    "Lanturn": {
+        "official_dex": "171",
+        "if_dex": "171"
+    },
+    "Pichu": {
+        "official_dex": "172",
+        "if_dex": "172"
+    },
+    "Cleffa": {
+        "official_dex": "173",
+        "if_dex": "173"
+    },
+    "Igglybuff": {
+        "official_dex": "174",
+        "if_dex": "174"
+    },
+    "Togepi": {
+        "official_dex": "175",
+        "if_dex": "175"
+    },
+    "Togetic": {
+        "official_dex": "176",
+        "if_dex": "176"
+    },
+    "Natu": {
+        "official_dex": "177",
+        "if_dex": "177"
+    },
+    "Xatu": {
+        "official_dex": "178",
+        "if_dex": "178"
+    },
+    "Mareep": {
+        "official_dex": "179",
+        "if_dex": "179"
+    },
+    "Flaaffy": {
+        "official_dex": "180",
+        "if_dex": "180"
+    },
+    "Ampharos": {
+        "official_dex": "181",
+        "if_dex": "181"
+    },
+    "Bellossom": {
+        "official_dex": "182",
+        "if_dex": "182"
+    },
+    "Marill": {
+        "official_dex": "183",
+        "if_dex": "183"
+    },
+    "Azumarill": {
+        "official_dex": "184",
+        "if_dex": "184"
+    },
+    "Sudowoodo": {
+        "official_dex": "185",
+        "if_dex": "185"
+    },
+    "Politoed": {
+        "official_dex": "186",
+        "if_dex": "186"
+    },
+    "Hoppip": {
+        "official_dex": "187",
+        "if_dex": "187"
+    },
+    "Skiploom": {
+        "official_dex": "188",
+        "if_dex": "188"
+    },
+    "Jumpluff": {
+        "official_dex": "189",
+        "if_dex": "189"
+    },
+    "Aipom": {
+        "official_dex": "190",
+        "if_dex": "190"
+    },
+    "Sunkern": {
+        "official_dex": "191",
+        "if_dex": "191"
+    },
+    "Sunflora": {
+        "official_dex": "192",
+        "if_dex": "192"
+    },
+    "Yanma": {
+        "official_dex": "193",
+        "if_dex": "193"
+    },
+    "Wooper": {
+        "official_dex": "194",
+        "if_dex": "194"
+    },
+    "Quagsire": {
+        "official_dex": "195",
+        "if_dex": "195"
+    },
+    "Espeon": {
+        "official_dex": "196",
+        "if_dex": "196"
+    },
+    "Umbreon": {
+        "official_dex": "197",
+        "if_dex": "197"
+    },
+    "Murkrow": {
+        "official_dex": "198",
+        "if_dex": "198"
+    },
+    "Slowking": {
+        "official_dex": "199",
+        "if_dex": "199"
+    },
+    "Misdreavus": {
+        "official_dex": "200",
+        "if_dex": "200"
+    },
+    "Unown": {
+        "official_dex": "201",
+        "if_dex": "201"
+    },
+    "Wobbuffet": {
+        "official_dex": "202",
+        "if_dex": "202"
+    },
+    "Girafarig": {
+        "official_dex": "203",
+        "if_dex": "203"
+    },
+    "Pineco": {
+        "official_dex": "204",
+        "if_dex": "204"
+    },
+    "Forretress": {
+        "official_dex": "205",
+        "if_dex": "205"
+    },
+    "Dunsparce": {
+        "official_dex": "206",
+        "if_dex": "206"
+    },
+    "Gligar": {
+        "official_dex": "207",
+        "if_dex": "207"
+    },
+    "Steelix": {
+        "official_dex": "208",
+        "if_dex": "208"
+    },
+    "Snubbull": {
+        "official_dex": "209",
+        "if_dex": "209"
+    },
+    "Granbull": {
+        "official_dex": "210",
+        "if_dex": "210"
+    },
+    "Qwilfish": {
+        "official_dex": "211",
+        "if_dex": "211"
+    },
+    "Scizor": {
+        "official_dex": "212",
+        "if_dex": "212"
+    },
+    "Shuckle": {
+        "official_dex": "213",
+        "if_dex": "213"
+    },
+    "Heracross": {
+        "official_dex": "214",
+        "if_dex": "214"
+    },
+    "Sneasel": {
+        "official_dex": "215",
+        "if_dex": "215"
+    },
+    "Teddiursa": {
+        "official_dex": "216",
+        "if_dex": "216"
+    },
+    "Ursaring": {
+        "official_dex": "217",
+        "if_dex": "217"
+    },
+    "Slugma": {
+        "official_dex": "218",
+        "if_dex": "218"
+    },
+    "Magcargo": {
+        "official_dex": "219",
+        "if_dex": "219"
+    },
+    "Swinub": {
+        "official_dex": "220",
+        "if_dex": "220"
+    },
+    "Piloswine": {
+        "official_dex": "221",
+        "if_dex": "221"
+    },
+    "Corsola": {
+        "official_dex": "222",
+        "if_dex": "222"
+    },
+    "Remoraid": {
+        "official_dex": "223",
+        "if_dex": "223"
+    },
+    "Octillery": {
+        "official_dex": "224",
+        "if_dex": "224"
+    },
+    "Delibird": {
+        "official_dex": "225",
+        "if_dex": "225"
+    },
+    "Mantine": {
+        "official_dex": "226",
+        "if_dex": "226"
+    },
+    "Skarmory": {
+        "official_dex": "227",
+        "if_dex": "227"
+    },
+    "Houndour": {
+        "official_dex": "228",
+        "if_dex": "228"
+    },
+    "Houndoom": {
+        "official_dex": "229",
+        "if_dex": "229"
+    },
+    "Kingdra": {
+        "official_dex": "230",
+        "if_dex": "230"
+    },
+    "Phanpy": {
+        "official_dex": "231",
+        "if_dex": "231"
+    },
+    "Donphan": {
+        "official_dex": "232",
+        "if_dex": "232"
+    },
+    "Porygon2": {
+        "official_dex": "233",
+        "if_dex": "233"
+    },
+    "Stantler": {
+        "official_dex": "234",
+        "if_dex": "234"
+    },
+    "Smeargle": {
+        "official_dex": "235",
+        "if_dex": "235"
+    },
+    "Tyrogue": {
+        "official_dex": "236",
+        "if_dex": "236"
+    },
+    "Hitmontop": {
+        "official_dex": "237",
+        "if_dex": "237"
+    },
+    "Smoochum": {
+        "official_dex": "238",
+        "if_dex": "238"
+    },
+    "Elekid": {
+        "official_dex": "239",
+        "if_dex": "239"
+    },
+    "Magby": {
+        "official_dex": "240",
+        "if_dex": "240"
+    },
+    "Miltank": {
+        "official_dex": "241",
+        "if_dex": "241"
+    },
+    "Blissey": {
+        "official_dex": "242",
+        "if_dex": "242"
+    },
+    "Raikou": {
+        "official_dex": "243",
+        "if_dex": "243"
+    },
+    "Entei": {
+        "official_dex": "244",
+        "if_dex": "244"
+    },
+    "Suicune": {
+        "official_dex": "245",
+        "if_dex": "245"
+    },
+    "Larvitar": {
+        "official_dex": "246",
+        "if_dex": "246"
+    },
+    "Pupitar": {
+        "official_dex": "247",
+        "if_dex": "247"
+    },
+    "Tyranitar": {
+        "official_dex": "248",
+        "if_dex": "248"
+    },
+    "Lugia": {
+        "official_dex": "249",
+        "if_dex": "249"
+    },
+    "Ho-oh": {
+        "official_dex": "250",
+        "if_dex": "250"
+    },
+    "Celebi": {
+        "official_dex": "251",
+        "if_dex": "251"
+    },
+    "Azurill": {
+        "official_dex": "298",
+        "if_dex": "252"
+    },
+    "Wynaut": {
+        "official_dex": "360",
+        "if_dex": "253"
+    },
+    "Ambipom": {
+        "official_dex": "424",
+        "if_dex": "254"
+    },
+    "Mismagius": {
+        "official_dex": "429",
+        "if_dex": "255"
+    },
+    "Honchkrow": {
+        "official_dex": "430",
+        "if_dex": "256"
+    },
+    "Bonsly": {
+        "official_dex": "438",
+        "if_dex": "257"
+    },
+    "Mime Jr.": {
+        "official_dex": "439",
+        "if_dex": "258"
+    },
+    "Happiny": {
+        "official_dex": "440",
+        "if_dex": "259"
+    },
+    "Munchlax": {
+        "official_dex": "446",
+        "if_dex": "260"
+    },
+    "Mantyke": {
+        "official_dex": "458",
+        "if_dex": "261"
+    },
+    "Weavile": {
+        "official_dex": "461",
+        "if_dex": "262"
+    },
+    "Magnezone": {
+        "official_dex": "462",
+        "if_dex": "263"
+    },
+    "Lickilicky": {
+        "official_dex": "463",
+        "if_dex": "264"
+    },
+    "Rhyperior": {
+        "official_dex": "464",
+        "if_dex": "265"
+    },
+    "Tangrowth": {
+        "official_dex": "465",
+        "if_dex": "266"
+    },
+    "Electivire": {
+        "official_dex": "466",
+        "if_dex": "267"
+    },
+    "Magmortar": {
+        "official_dex": "467",
+        "if_dex": "268"
+    },
+    "Togekiss": {
+        "official_dex": "468",
+        "if_dex": "269"
+    },
+    "Yanmega": {
+        "official_dex": "469",
+        "if_dex": "270"
+    },
+    "Leafeon": {
+        "official_dex": "470",
+        "if_dex": "271"
+    },
+    "Glaceon": {
+        "official_dex": "471",
+        "if_dex": "272"
+    },
+    "Gliscor": {
+        "official_dex": "472",
+        "if_dex": "273"
+    },
+    "Mamoswine": {
+        "official_dex": "473",
+        "if_dex": "274"
+    },
+    "Porygon-Z": {
+        "official_dex": "474",
+        "if_dex": "275"
+    },
+    "Treecko": {
+        "official_dex": "252",
+        "if_dex": "276"
+    },
+    "Grovyle": {
+        "official_dex": "253",
+        "if_dex": "277"
+    },
+    "Sceptile": {
+        "official_dex": "254",
+        "if_dex": "278"
+    },
+    "Torchic": {
+        "official_dex": "255",
+        "if_dex": "279"
+    },
+    "Combusken": {
+        "official_dex": "256",
+        "if_dex": "280"
+    },
+    "Blaziken": {
+        "official_dex": "257",
+        "if_dex": "281"
+    },
+    "Mudkip": {
+        "official_dex": "258",
+        "if_dex": "282"
+    },
+    "Marshtomp": {
+        "official_dex": "259",
+        "if_dex": "283"
+    },
+    "Swampert": {
+        "official_dex": "260",
+        "if_dex": "284"
+    },
+    "Ralts": {
+        "official_dex": "280",
+        "if_dex": "285"
+    },
+    "Kirlia": {
+        "official_dex": "281",
+        "if_dex": "286"
+    },
+    "Gardevoir": {
+        "official_dex": "282",
+        "if_dex": "287"
+    },
+    "Gallade": {
+        "official_dex": "475",
+        "if_dex": "288"
+    },
+    "Shedinja": {
+        "official_dex": "292",
+        "if_dex": "289"
+    },
+    "Kecleon": {
+        "official_dex": "352",
+        "if_dex": "290"
+    },
+    "Beldum": {
+        "official_dex": "374",
+        "if_dex": "291"
+    },
+    "Metang": {
+        "official_dex": "375",
+        "if_dex": "292"
+    },
+    "Metagross": {
+        "official_dex": "376",
+        "if_dex": "293"
+    },
+    "Bidoof": {
+        "official_dex": "399",
+        "if_dex": "294"
+    },
+    "Spiritomb": {
+        "official_dex": "442",
+        "if_dex": "295"
+    },
+    "Lucario": {
+        "official_dex": "448",
+        "if_dex": "296"
+    },
+    "Gible": {
+        "official_dex": "443",
+        "if_dex": "297"
+    },
+    "Gabite": {
+        "official_dex": "444",
+        "if_dex": "298"
+    },
+    "Garchomp": {
+        "official_dex": "445",
+        "if_dex": "299"
+    },
+    "Mawile": {
+        "official_dex": "303",
+        "if_dex": "300"
+    },
+    "Lileep": {
+        "official_dex": "345",
+        "if_dex": "301"
+    },
+    "Cradily": {
+        "official_dex": "346",
+        "if_dex": "302"
+    },
+    "Anorith": {
+        "official_dex": "347",
+        "if_dex": "303"
+    },
+    "Armaldo": {
+        "official_dex": "348",
+        "if_dex": "304"
+    },
+    "Cranidos": {
+        "official_dex": "408",
+        "if_dex": "305"
+    },
+    "Rampardos": {
+        "official_dex": "409",
+        "if_dex": "306"
+    },
+    "Shieldon": {
+        "official_dex": "410",
+        "if_dex": "307"
+    },
+    "Bastiodon": {
+        "official_dex": "411",
+        "if_dex": "308"
+    },
+    "Slaking": {
+        "official_dex": "289",
+        "if_dex": "309"
+    },
+    "Absol": {
+        "official_dex": "359",
+        "if_dex": "310"
+    },
+    "Duskull": {
+        "official_dex": "355",
+        "if_dex": "311"
+    },
+    "Dusclops": {
+        "official_dex": "356",
+        "if_dex": "312"
+    },
+    "Dusknoir": {
+        "official_dex": "477",
+        "if_dex": "313"
+    },
+    "Wailord": {
+        "official_dex": "321",
+        "if_dex": "314"
+    },
+    "Arceus": {
+        "official_dex": "493",
+        "if_dex": "315"
+    },
+    "Turtwig": {
+        "official_dex": "387",
+        "if_dex": "316"
+    },
+    "Grotle": {
+        "official_dex": "388",
+        "if_dex": "317"
+    },
+    "Torterra": {
+        "official_dex": "389",
+        "if_dex": "318"
+    },
+    "Chimchar": {
+        "official_dex": "390",
+        "if_dex": "319"
+    },
+    "Monferno": {
+        "official_dex": "391",
+        "if_dex": "320"
+    },
+    "Infernape": {
+        "official_dex": "392",
+        "if_dex": "321"
+    },
+    "Piplup": {
+        "official_dex": "393",
+        "if_dex": "322"
+    },
+    "Prinplup": {
+        "official_dex": "394",
+        "if_dex": "323"
+    },
+    "Empoleon": {
+        "official_dex": "395",
+        "if_dex": "324"
+    },
+    "Nosepass": {
+        "official_dex": "299",
+        "if_dex": "325"
+    },
+    "Probopass": {
+        "official_dex": "476",
+        "if_dex": "326"
+    },
+    "Honedge": {
+        "official_dex": "679",
+        "if_dex": "327"
+    },
+    "Doublade": {
+        "official_dex": "680",
+        "if_dex": "328"
+    },
+    "Aegislash": {
+        "official_dex": "681",
+        "if_dex": "329"
+    },
+    "Pawniard": {
+        "official_dex": "624",
+        "if_dex": "330"
+    },
+    "Bisharp": {
+        "official_dex": "625",
+        "if_dex": "331"
+    },
+    "Luxray": {
+        "official_dex": "405",
+        "if_dex": "332"
+    },
+    "Aggron": {
+        "official_dex": "306",
+        "if_dex": "333"
+    },
+    "Flygon": {
+        "official_dex": "330",
+        "if_dex": "334"
+    },
+    "Milotic": {
+        "official_dex": "350",
+        "if_dex": "335"
+    },
+    "Salamence": {
+        "official_dex": "373",
+        "if_dex": "336"
+    },
+    "Klinklang": {
+        "official_dex": "601",
+        "if_dex": "337"
+    },
+    "Zoroark": {
+        "official_dex": "571",
+        "if_dex": "338"
+    },
+    "Sylveon": {
+        "official_dex": "700",
+        "if_dex": "339"
+    },
+    "Kyogre": {
+        "official_dex": "382",
+        "if_dex": "340"
+    },
+    "Groudon": {
+        "official_dex": "383",
+        "if_dex": "341"
+    },
+    "Rayquaza": {
+        "official_dex": "384",
+        "if_dex": "342"
+    },
+    "Dialga": {
+        "official_dex": "483",
+        "if_dex": "343"
+    },
+    "Palkia": {
+        "official_dex": "484",
+        "if_dex": "344"
+    },
+    "Giratina": {
+        "official_dex": "487",
+        "if_dex": "345"
+    },
+    "Regigigas": {
+        "official_dex": "486",
+        "if_dex": "346"
+    },
+    "Darkrai": {
+        "official_dex": "491",
+        "if_dex": "347"
+    },
+    "Genesect": {
+        "official_dex": "649",
+        "if_dex": "348"
+    },
+    "Reshiram": {
+        "official_dex": "643",
+        "if_dex": "349"
+    },
+    "Zekrom": {
+        "official_dex": "644",
+        "if_dex": "350"
+    },
+    "Kyurem": {
+        "official_dex": "646",
+        "if_dex": "351"
+    },
+    "Roserade": {
+        "official_dex": "407",
+        "if_dex": "352"
+    },
+    "Drifblim": {
+        "official_dex": "426",
+        "if_dex": "353"
+    },
+    "Lopunny": {
+        "official_dex": "428",
+        "if_dex": "354"
+    },
+    "Breloom": {
+        "official_dex": "286",
+        "if_dex": "355"
+    },
+    "Ninjask": {
+        "official_dex": "291",
+        "if_dex": "356"
+    },
+    "Banette": {
+        "official_dex": "354",
+        "if_dex": "357"
+    },
+    "Rotom": {
+        "official_dex": "479",
+        "if_dex": "358"
+    },
+    "Reuniclus": {
+        "official_dex": "579",
+        "if_dex": "359"
+    },
+    "Whimsicott": {
+        "official_dex": "547",
+        "if_dex": "360"
+    },
+    "Krookodile": {
+        "official_dex": "553",
+        "if_dex": "361"
+    },
+    "Cofagrigus": {
+        "official_dex": "563",
+        "if_dex": "362"
+    },
+    "Galvantula": {
+        "official_dex": "596",
+        "if_dex": "363"
+    },
+    "Ferrothorn": {
+        "official_dex": "598",
+        "if_dex": "364"
+    },
+    "Litwick": {
+        "official_dex": "607",
+        "if_dex": "365"
+    },
+    "Lampent": {
+        "official_dex": "608",
+        "if_dex": "366"
+    },
+    "Chandelure": {
+        "official_dex": "609",
+        "if_dex": "367"
+    },
+    "Haxorus": {
+        "official_dex": "612",
+        "if_dex": "368"
+    },
+    "Golurk": {
+        "official_dex": "623",
+        "if_dex": "369"
+    },
+    "Pyukumuku": {
+        "official_dex": "771",
+        "if_dex": "370"
+    },
+    "Klefki": {
+        "official_dex": "707",
+        "if_dex": "371"
+    },
+    "Talonflame": {
+        "official_dex": "663",
+        "if_dex": "372"
+    },
+    "Mimikyu": {
+        "official_dex": "778",
+        "if_dex": "373"
+    },
+    "Volcarona": {
+        "official_dex": "637",
+        "if_dex": "374"
+    },
+    "Deino": {
+        "official_dex": "633",
+        "if_dex": "375"
+    },
+    "Zweilous": {
+        "official_dex": "634",
+        "if_dex": "376"
+    },
+    "Hydreigon": {
+        "official_dex": "635",
+        "if_dex": "377"
+    },
+    "Latias": {
+        "official_dex": "380",
+        "if_dex": "378"
+    },
+    "Latios": {
+        "official_dex": "381",
+        "if_dex": "379"
+    },
+    "Deoxys": {
+        "official_dex": "386",
+        "if_dex": "380"
+    },
+    "Jirachi": {
+        "official_dex": "385",
+        "if_dex": "381"
+    },
+    "Nincada": {
+        "official_dex": "290",
+        "if_dex": "382"
+    },
+    "Bibarel": {
+        "official_dex": "400",
+        "if_dex": "383"
+    },
+    "Riolu": {
+        "official_dex": "447",
+        "if_dex": "384"
+    },
+    "Slakoth": {
+        "official_dex": "287",
+        "if_dex": "385"
+    },
+    "Vigoroth": {
+        "official_dex": "288",
+        "if_dex": "386"
+    },
+    "Wailmer": {
+        "official_dex": "320",
+        "if_dex": "387"
+    },
+    "Shinx": {
+        "official_dex": "403",
+        "if_dex": "388"
+    },
+    "Luxio": {
+        "official_dex": "404",
+        "if_dex": "389"
+    },
+    "Aron": {
+        "official_dex": "304",
+        "if_dex": "390"
+    },
+    "Lairon": {
+        "official_dex": "305",
+        "if_dex": "391"
+    },
+    "Trapinch": {
+        "official_dex": "328",
+        "if_dex": "392"
+    },
+    "Vibrava": {
+        "official_dex": "329",
+        "if_dex": "393"
+    },
+    "Feebas": {
+        "official_dex": "349",
+        "if_dex": "394"
+    },
+    "Bagon": {
+        "official_dex": "371",
+        "if_dex": "395"
+    },
+    "Shelgon": {
+        "official_dex": "372",
+        "if_dex": "396"
+    },
+    "Klink": {
+        "official_dex": "599",
+        "if_dex": "397"
+    },
+    "Klang": {
+        "official_dex": "600",
+        "if_dex": "398"
+    },
+    "Zorua": {
+        "official_dex": "570",
+        "if_dex": "399"
+    },
+    "Budew": {
+        "official_dex": "406",
+        "if_dex": "400"
+    },
+    "Roselia": {
+        "official_dex": "315",
+        "if_dex": "401"
+    },
+    "Drifloon": {
+        "official_dex": "425",
+        "if_dex": "402"
+    },
+    "Buneary": {
+        "official_dex": "427",
+        "if_dex": "403"
+    },
+    "Shroomish": {
+        "official_dex": "285",
+        "if_dex": "404"
+    },
+    "Shuppet": {
+        "official_dex": "353",
+        "if_dex": "405"
+    },
+    "Solosis": {
+        "official_dex": "577",
+        "if_dex": "406"
+    },
+    "Duosion": {
+        "official_dex": "578",
+        "if_dex": "407"
+    },
+    "Cottonee": {
+        "official_dex": "546",
+        "if_dex": "408"
+    },
+    "Sandile": {
+        "official_dex": "551",
+        "if_dex": "409"
+    },
+    "Krokorok": {
+        "official_dex": "552",
+        "if_dex": "410"
+    },
+    "Yamask": {
+        "official_dex": "562",
+        "if_dex": "411"
+    },
+    "Joltik": {
+        "official_dex": "595",
+        "if_dex": "412"
+    },
+    "Ferroseed": {
+        "official_dex": "597",
+        "if_dex": "413"
+    },
+    "Axew": {
+        "official_dex": "610",
+        "if_dex": "414"
+    },
+    "Fraxure": {
+        "official_dex": "611",
+        "if_dex": "415"
+    },
+    "Golett": {
+        "official_dex": "622",
+        "if_dex": "416"
+    },
+    "Fletchling": {
+        "official_dex": "661",
+        "if_dex": "417"
+    },
+    "Fletchinder": {
+        "official_dex": "662",
+        "if_dex": "418"
+    },
+    "Larvesta": {
+        "official_dex": "636",
+        "if_dex": "419"
+    },
+    "Stunfisk": {
+        "official_dex": "618",
+        "if_dex": "420"
+    }
+}
