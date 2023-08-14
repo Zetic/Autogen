@@ -6,6 +6,17 @@ This repository contains Python scripts designed to manage and create fused Pok√
 Main Scripts
 ----------------------------------------------------------------------------------------------------------------------------------------------
 
+run.py
+
+Purpose: All in one script that will combine functionality of the other scripts 
+
+Resizes sprites.png (96x96 > 288x288)
+Splits sprites.png into individual sprites nammed by IF Pokedex number
+Splits the top and bottom of each sprite based on the height of the sprite
+Fuses every sprite
+
+----------------------------------------------------------------------------------------------------------------------------------------------
+
 Sprite Sheet Splitting Script: spritesheet_cut.py
 
 Purpose: Extracts individual Pok√©mon sprites from a sprite sheet.
