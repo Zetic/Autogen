@@ -46,7 +46,7 @@ def rename_and_move_files_using_json(pokemon_folder, json_file):
 
 if __name__ == "__main__":
     sprite_sheet_file = "sprites.png"
-    rows = 21
+    rows = 20
     cols = 21
     split_sprite_sheet(sprite_sheet_file, rows, cols)
     rename_and_move_files_using_json("Pokemon", "pokedex_if_list.json")
