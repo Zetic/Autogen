@@ -13,7 +13,6 @@ Purpose: Extracts individual Pokémon sprites from a sprite sheet.
 Splits a sprite sheet into individual Pokémon sprites.
 Uses pokedex_if_list.json and sprites.json to rename and organize the sprites based on the official and Infinite Fusion Pokédex numbers.
 Outputs the sprites to a directory named IFPokemon.
-Pokémon Sprite Fusion Script:
 
 ----------------------------------------------------------------------------------------------------------------------------------------------
 
